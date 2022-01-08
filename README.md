@@ -18,7 +18,5 @@ Using an asynchronous approach, this application captures user input in the comm
 * NOTE: RUNNING THE APPLICATION AGAIN WILL OVERWRITE THE CURRENT FILES IN THE DIST FOLDER.
 ## Authors
 
-Contributors names and contact info
-
 Michael Khoury  
 mikekhoury135@gmail.com
